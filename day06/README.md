@@ -1,4 +1,4 @@
-# Advent of Code - Day 04
+# Advent of Code - Day 06
 
 ## Part 01
 
